@@ -1,0 +1,9 @@
+k_developer_capstone/server$ python3 manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 11, 2026 - 15:28:28
+Django version 5.2.19, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
