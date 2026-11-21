@@ -1,5 +1,5 @@
 # fullstack_developer_capstone
-# Fullstack Developer Capstone Project
+
 
 This is a comprehensive Full-Stack Capstone Project.
 
